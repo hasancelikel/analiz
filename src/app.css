@@ -1,0 +1,23 @@
+*{
+   
+    box-sizing: border-box;
+}
+.App {
+    width: 1005px;
+    border: 2px solid black;
+    margin-left: 150px;
+    padding: 0px;
+    
+    
+}
+button {
+    width: 100px;
+    height: 50px;
+    float: right;
+    cursor: pointer;
+    background-color: red;
+    color: azure;
+    border: none;
+    border-radius: 20px;
+    
+}

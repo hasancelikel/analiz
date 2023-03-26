@@ -1,0 +1,29 @@
+.next-page {
+    width: 150px;
+    height: 60px;
+    background-color: white;
+    
+   
+
+    
+}
+.next-page:hover {
+    background-color: silver;
+}
+.link-box {
+    display: flex;
+    margin: 10px;
+    width: 200px;
+    height: 200px;
+    border-radius: 5px;
+    background-color: black;
+}
+.link-comp {
+    display: flex;
+    
+}
+.link {
+    text-decoration: none;
+    font-size: 15px;
+    color: black;
+}
