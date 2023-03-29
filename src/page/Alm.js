@@ -1,6 +1,6 @@
 import Drc from "/Users/hasancelikel/Desktop/analiz/src/component/drc.js";
 import Logo from "/Users/hasancelikel/Desktop/analiz/src/component/logo.js";
-import './app.css'
+
 import Mettest from "/Users/hasancelikel/Desktop/analiz/src/component/mettest.js";
 import Mecanaliz from "/Users/hasancelikel/Desktop/analiz/src/component/CHEMICAL ANALISYS/mecanaliz.js"
 import End from "/Users/hasancelikel/Desktop/analiz/src/component/CHEMICAL ANALISYS/end.js"
