@@ -9,7 +9,7 @@ function All() {
         <Routes>
           <Route path='/' element={<HomepPage />} />
           <Route path='/App' element={<App />} />
-          <Route path='/Alm' element={<Alm />} />
+         
         </Routes>
       </div>
     </BrowserRouter>
